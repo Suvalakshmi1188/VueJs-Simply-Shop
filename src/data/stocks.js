@@ -1,0 +1,7 @@
+export default [
+    { id: 1, name: 'Pencil', url: 'https://images-na.ssl-images-amazon.com/images/I/41Tcx4bpkCL._SX355_.jpg', des: '<ul><li>Pencils from Apsara.</li><li>special wood for easy sharpening.</li><li>Extra dark leads.</li></ul>', qty: 10 },
+    { id: 2, name: 'Sharpner', url: 'https://images-na.ssl-images-amazon.com/images/I/61MWpdP8X%2BL._SX355_.jpg', des: '<ul><li>Solid as a Pack of 24.</li><li>Convenient pocket size.</li><li>Assorted colors.</li><li>Rust proof blade.</li></ul>', qty: 10 },
+    { id: 3, name: 'Eraser', url: 'https://images-na.ssl-images-amazon.com/images/I/81Oo%2BytoTjL._AC_SY355_.jpg', des: '<ul><li>Removes pencil marks effortlessly.</li><li>Premium latex-free vinyl erasers.</li></ul>', qty: 10 },
+    { id: 4, name: 'Ruler', url: 'https://images-na.ssl-images-amazon.com/images/I/61Hta0YwXzL._AC_SY355_.jpg', des: '<ul><li>30cm Ruler.</li><li>Clear view of measuring numbers.</li></ul>', qty: 10 },
+    { id: 5, name: 'Pen', url: 'https://images-na.ssl-images-amazon.com/images/I/711F6-eLS6L._AC_SY355_.jpg', des: '<ul><li>Refillable fountain pen.</li><li>Convenient pocket size.</li><li>Water/dye-based black ink is refillable.</li><li>Medium-sized nib for creating bolrlines.</li></ul>', qty: 10 }
+];
